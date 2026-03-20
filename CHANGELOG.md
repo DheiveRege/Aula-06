@@ -4,5 +4,6 @@ changelog
 adicionada 
    * Estrutura inicial do projeto
    * Pagina de funcionalidades
-corrigido
+
+**corrigido
    * ajustes de titulo
