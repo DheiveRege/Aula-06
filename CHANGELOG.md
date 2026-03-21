@@ -7,3 +7,11 @@ adicionada
 
 **corrigido
    * ajustes de titulo
+
+
+changelog
+[1.0.1] - 2026-03-20
+
+**corrigido
+   * ajustes de titulo  
+   * ajustes no visual e nomeclatura
